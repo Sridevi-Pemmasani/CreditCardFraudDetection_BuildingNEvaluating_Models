@@ -1,2 +1,2 @@
 # CreditCardFraudDetection_BuildingNEvaluating_Models
-CreditCardFraudDetection_BuildingNEvaluating_Models
+Credit Card Fraud Detection Building and Evaluating Models

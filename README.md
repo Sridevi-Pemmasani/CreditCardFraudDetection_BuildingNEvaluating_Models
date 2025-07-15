@@ -168,14 +168,12 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 
 
 
-#### ✅ Confusion Matrix – Decision Tree
-![Confusion Matrix](Images/confusion_matrix_dt.png)
+#### ✅ Confusion Matrix – Decision Tree Model
+![Confusion Matrix Decision Tree Model](Images/ConfusionMatrix_DecisionTree_Model.png)
 
-#### ✅ ROC Curve – Decision Tree
-![ROC Curve](Images/roc_curve_dt.png)
+#### ✅ ROC Curve – Decision Tree Model
+![ROC Curve](Images/ROCCurve_with_AUCScore_DecisionTree_Model.png)
 
-#### ✅ Adjusted R-Squared Values Across Models
-![Model Comparison](Images/model_comparison_accuracy.png)
 
 #### ✅ Residual Q-Q Plot – Log Transformation Model
 ![Q-Q Plot](Images/qqplot_residuals_log_model.png)

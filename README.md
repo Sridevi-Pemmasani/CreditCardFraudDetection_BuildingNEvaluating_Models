@@ -1,4 +1,4 @@
-# 🔐 Credit Card Fraud Prediction Using Multiple Machine Learning Models and Evaluation of Results
+## 🔐 Credit Card Fraud Detection - Building and Evaluating Multiple Machine Learning Models
 
 ---
 
@@ -126,14 +126,28 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 
 ---
 
-## 📂 Repository Structure
+## 📊 Visualizations
 
-📁 Credit-Card-Fraud-Detection/
-│
-├── 📄 README.md # Project overview (this file)
-├── 📄 Credit Card Fraud Detection_Model Building.ipynb # Main Jupyter notebook
-├── 📄 report.pdf # Final academic report
-├── 📊 data/
-│ └── creditcard.csv # Cleaned dataset (or link if sensitive)
-└── 📈 images/
-└── *.png # Plots, charts, confusion matrices
+### 🔍 Exploratory Data Analysis (EDA)
+
+#### 📌 Correlation Heatmap
+![EDA Heatmap](images/eda_heatmap.png)
+
+#### 📌 Distribution of Transaction Amounts
+![Boxplot of Transaction Amount](images/boxplot_transaction_amount.png)
+
+---
+
+### 📊 Model Evaluation
+
+#### ✅ Confusion Matrix – Decision Tree
+![Confusion Matrix](images/confusion_matrix_dt.png)
+
+#### 📈 ROC Curve – Decision Tree
+![ROC Curve](images/roc_curve_dt.png)
+
+#### 📊 Adjusted R-Squared Values Across Models
+![Model Comparison](images/model_comparison_accuracy.png)
+
+#### 🧪 Residual Q-Q Plot – Log Transformation Model
+![Q-Q Plot](images/qqplot_residuals_log_model.png)

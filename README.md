@@ -163,8 +163,14 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 #### ✅ Ordinary Least Squares Model – With Box-Cox Transformation
 ![OLS-Box-Cox TransformedModel](Images/RegressionResults-OLSModel-WithBox-CoxTransformedData.png)
 
+#### ✅ Residual Q-Q Plots - All Transformation Models
+![Residual Q-Q Plots - All Transformation Models](ResidualQ-QPlots–AllTranformationModels.png)
+
 #### ✅ Ordinary Least Squares Model – Model Comparison with Different Transformations
 ![OLS-ModelComparision-WithDifferentTransformations](Images/ModelPerformance–AllTranformationModels.png)
+
+#### ✅ VIF Values for Features (Multicollinearity Check) - All Transformation Models
+![VIF Values for Features (Multicollinearity Check)](Images/VIFValuesforFeatures-MulticollinearityCheck-AllTransformations.png)
 
 
 

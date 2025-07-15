@@ -164,7 +164,7 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 ![OLS-Box-Cox TransformedModel](Images/RegressionResults-OLSModel-WithBox-CoxTransformedData.png)
 
 #### ✅ Residual Q-Q Plots - All Transformation Models
-![Residual Q-Q Plots - All Transformation Models](ResidualQ-QPlots–AllTranformationModels.png)
+![Residual Q-Q Plots - All Transformation Models](Images/ResidualQ-QPlots–AllTranformationModels.png)
 
 #### ✅ Ordinary Least Squares Model – Model Comparison with Different Transformations
 ![OLS-ModelComparision-WithDifferentTransformations](Images/ModelPerformance–AllTranformationModels.png)
@@ -173,23 +173,27 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 ![VIF Values for Features (Multicollinearity Check)](Images/VIFValuesforFeatures-MulticollinearityCheck-AllTransformations.png)
 
 
-
 #### ✅ Confusion Matrix – Decision Tree Model
 ![Confusion Matrix Decision Tree Model](Images/ConfusionMatrix_DecisionTree_Model.png)
 
 #### ✅ ROC Curve – Decision Tree Model
 ![ROC Curve](Images/ROCCurve_with_AUCScore_DecisionTree_Model.png)
 
+#### ✅ ROC Curve – Decision Tree
+![DEcision Tree](Images/DecisionTree_Visualization.png)
 
-#### ✅ Residual Q-Q Plot – Log Transformation Model
-![Q-Q Plot](Images/qqplot_residuals_log_model.png)
 
+#### ✅ Confusion Matrix – LDA, QDA and KNN Models
+![Confusion Matrix - LDA QDA KNN Models](Images/ConfusionMatrix_for_LDA_QDA_KNN_Models.png)
 
-#### ✅ Distribution of Transaction Amounts
-![EDA - Legit and Fradulent Transaction Count](Images/FradulentandLegitTransactionsCount.png)
+#### ✅ ROC Curve – LDA, QDA and KNN Models
+![ROC Curve - LDA QDA KNN Models](Images/ROCCurves_with_AUCScores_for_LDA_QDA_KNN_Models.png)
 
-#### ✅ Distribution of Transaction Amounts
-![EDA - Legit and Fradulent Transaction Count](Images/FradulentandLegitTransactionsCount.png)
+#### ✅ Decision Boudaries – LDA, QDA and KNN Models
+![Decision Boudaries - LDA QDA KNN Models](Images/DecisionBoundries_for_LDA_QDA_KNN_Models.png)
 
-#### ✅ Distribution of Transaction Amounts
-![EDA - Legit and Fradulent Transaction Count](Images/FradulentandLegitTransactionsCount.png)
+#### ✅ Feature Importance
+![Feature Importance](Images/FeaturesbyImportance.png)
+
+#### ✅ Model Comparison –  Logistic Regression, LDA, QDA, KNNA, Decision Tree and GuassianNB Models
+![Model Comparison](Images/ModelComparisions_AllModels.png)

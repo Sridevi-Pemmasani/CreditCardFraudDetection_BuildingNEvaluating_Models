@@ -130,61 +130,62 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 
 ### 🔍 Exploratory Data Analysis (EDA)
 
+#### 📌 Correlation Heatmap
 ![EDA-Correlation Heatmap](Images/Heatmap-R-CorrelationPlot-Checks-Multi-Collinearity-Among-IndependentVars.png)
 
 #### 📌 Distribution of Transaction Amounts
 ![EDA-Boxplot of Transaction Amount](Images/Distribution_of_Transaction-Amounts_by_Fraudulent-Status.png)
 
 #### 📌 Legit and Fraud Transactions Count 
-![EDA - Legit and Fradulent Transaction Count](images/FradulentandLegitTransactionsCount.png)
+![EDA - Legit and Fradulent Transaction Count](Images/FradulentandLegitTransactionsCount.png)
 
 
 #### 📌 Distribution of Transactions by Category 
-![EDA - Legit and Fradulent Transaction Count](images/Distribution_of_Transactions_by_Category.png)
+![EDA - Legit and Fradulent Transaction Count](Images/Distribution_of_Transactions_by_Category.png)
 
 
 #### 📌 Distribution of Transactions by Category by Transaction Status
-![EDA - Legit and Fradulent Transaction Count](images/Distribution_of_Transactions_by_Category_by_Transaction-Status.png)
+![EDA - Legit and Fradulent Transaction Count](Images/Distribution_of_Transactions_by_Category_by_Transaction-Status.png)
 
 ---
 
 ### 📊 Model Evaluation
 
 #### ✅ Ordinary Least Squares Model – Without Data Transformation
-![Confusion Matrix](images/RegressionResults-BasicOLS-Model.png)
+![Confusion Matrix](Images/RegressionResults-BasicOLS-Model.png)
 
 #### ✅ Ordinary Least Squares Model – With Log Transformation
-![Confusion Matrix](images/RegressionResults-OLSModel-WithLogTransformedData.png)
+![Confusion Matrix](Images/RegressionResults-OLSModel-WithLogTransformedData.png)
 
 #### ✅ Ordinary Least Squares Model – With Square Root Transformation
-![Confusion Matrix](images/RegressionResults-OLSModel-WithSquareRootData.png)
+![Confusion Matrix](Images/RegressionResults-OLSModel-WithSquareRootData.png)
 
 #### ✅ Ordinary Least Squares Model – With Box-Cox Transformation
-![Confusion Matrix](images/RegressionResults-OLSModel-WithBox-CoxTransformedData.png)
+![Confusion Matrix](Images/RegressionResults-OLSModel-WithBox-CoxTransformedData.png)
 
 #### ✅ Ordinary Least Squares Model – Model Comparison with Different Transformations
-![Confusion Matrix](images/ModelPerformance–AllTranformationModels.png)
+![Confusion Matrix](Images/ModelPerformance–AllTranformationModels.png)
 
 
 
 #### ✅ Confusion Matrix – Decision Tree
-![Confusion Matrix](images/confusion_matrix_dt.png)
+![Confusion Matrix](Images/confusion_matrix_dt.png)
 
 #### 📈 ROC Curve – Decision Tree
-![ROC Curve](images/roc_curve_dt.png)
+![ROC Curve](Images/roc_curve_dt.png)
 
 #### 📊 Adjusted R-Squared Values Across Models
-![Model Comparison](images/model_comparison_accuracy.png)
+![Model Comparison](Images/model_comparison_accuracy.png)
 
 #### 🧪 Residual Q-Q Plot – Log Transformation Model
-![Q-Q Plot](images/qqplot_residuals_log_model.png)
+![Q-Q Plot](Images/qqplot_residuals_log_model.png)
 
 
 #### 📌 Distribution of Transaction Amounts
-![EDA - Legit and Fradulent Transaction Count](images/FradulentandLegitTransactionsCount.png)
+![EDA - Legit and Fradulent Transaction Count](Images/FradulentandLegitTransactionsCount.png)
 
 #### 📌 Distribution of Transaction Amounts
-![EDA - Legit and Fradulent Transaction Count](images/FradulentandLegitTransactionsCount.png)
+![EDA - Legit and Fradulent Transaction Count](Images/FradulentandLegitTransactionsCount.png)
 
 #### 📌 Distribution of Transaction Amounts
-![EDA - Legit and Fradulent Transaction Count](images/FradulentandLegitTransactionsCount.png)
+![EDA - Legit and Fradulent Transaction Count](Images/FradulentandLegitTransactionsCount.png)

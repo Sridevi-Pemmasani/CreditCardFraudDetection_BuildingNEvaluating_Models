@@ -130,8 +130,7 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 
 ### 🔍 Exploratory Data Analysis (EDA)
 
-#### 📌 Correlation Heatmap
-![EDA-Heatmap](Images/Heatmap-R-CorrelationPlot-Checks-Multi-Collinearity-Among-IndependentVars.png)
+![EDA-Correlation Heatmap](Images/Heatmap-R-CorrelationPlot-Checks-Multi-Collinearity-Among-IndependentVars.png)
 
 #### 📌 Distribution of Transaction Amounts
 ![EDA-Boxplot of Transaction Amount](Images/Distribution_of_Transaction-Amounts_by_Fraudulent-Status.png)

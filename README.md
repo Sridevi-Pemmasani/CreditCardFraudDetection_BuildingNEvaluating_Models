@@ -131,14 +131,42 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 ### 🔍 Exploratory Data Analysis (EDA)
 
 #### 📌 Correlation Heatmap
-![EDA Heatmap](images/eda_heatmap.png)
+![EDA - Heatmap](images/Heatmap-R-CorrelationPlot-Checks-Multi-Collinearity-Among-IndependentVars.png)
 
 #### 📌 Distribution of Transaction Amounts
-![Boxplot of Transaction Amount](images/boxplot_transaction_amount.png)
+![EDA - Boxplot of Transaction Amount](images/Distribution_of_Transaction-Amounts_by_Fraudulent-Status.png)
+
+#### 📌 Legit and Fraud Transactions Count 
+![EDA - Legit and Fradulent Transaction Count](images/FradulentandLegitTransactionsCount.png)
+
+
+#### 📌 Distribution of Transactions by Category 
+![EDA - Legit and Fradulent Transaction Count](images/Distribution_of_Transactions_by_Category.png)
+
+
+#### 📌 Distribution of Transactions by Category by Transaction Status
+![EDA - Legit and Fradulent Transaction Count](images/Distribution_of_Transactions_by_Category_by_Transaction-Status.png)
 
 ---
 
 ### 📊 Model Evaluation
+
+#### ✅ Ordinary Least Squares Model – Without Data Transformation
+![Confusion Matrix](images/RegressionResults-BasicOLS-Model.png)
+
+#### ✅ Ordinary Least Squares Model – With Log Transformation
+![Confusion Matrix](images/RegressionResults-OLSModel-WithLogTransformedData.png)
+
+#### ✅ Ordinary Least Squares Model – With Square Root Transformation
+![Confusion Matrix](images/RegressionResults-OLSModel-WithSquareRootData.png)
+
+#### ✅ Ordinary Least Squares Model – With Box-Cox Transformation
+![Confusion Matrix](images/RegressionResults-OLSModel-WithBox-CoxTransformedData.png)
+
+#### ✅ Ordinary Least Squares Model – Model Comparison with Different Transformations
+![Confusion Matrix](images/ModelPerformance–AllTranformationModels.png)
+
+
 
 #### ✅ Confusion Matrix – Decision Tree
 ![Confusion Matrix](images/confusion_matrix_dt.png)
@@ -151,3 +179,13 @@ Credit card fraud is a critical issue affecting both financial institutions and 
 
 #### 🧪 Residual Q-Q Plot – Log Transformation Model
 ![Q-Q Plot](images/qqplot_residuals_log_model.png)
+
+
+#### 📌 Distribution of Transaction Amounts
+![EDA - Legit and Fradulent Transaction Count](images/FradulentandLegitTransactionsCount.png)
+
+#### 📌 Distribution of Transaction Amounts
+![EDA - Legit and Fradulent Transaction Count](images/FradulentandLegitTransactionsCount.png)
+
+#### 📌 Distribution of Transaction Amounts
+![EDA - Legit and Fradulent Transaction Count](images/FradulentandLegitTransactionsCount.png)
